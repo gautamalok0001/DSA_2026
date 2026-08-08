@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/gautamalok0001/DSA_2026/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/gautamalok0001/DSA_2026/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/gautamalok0001/DSA_2026/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/gautamalok0001/DSA_2026/tree/master/0841-keys-and-rooms) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/gautamalok0001/DSA_2026/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/gautamalok0001/DSA_2026/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/gautamalok0001/DSA_2026/tree/master/0841-keys-and-rooms) |
 ## Union-Find
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/gautamalok0001/DSA_2026/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/gautamalok0001/DSA_2026/tree/master/0695-max-area-of-island) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/gautamalok0001/DSA_2026/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
