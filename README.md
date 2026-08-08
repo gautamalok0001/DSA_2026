@@ -18,4 +18,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/gautamalok0001/DSA_2026/tree/master/0279-perfect-squares) |
+| [0695-max-area-of-island](https://github.com/gautamalok0001/DSA_2026/tree/master/0695-max-area-of-island) |
+## Array
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/gautamalok0001/DSA_2026/tree/master/0695-max-area-of-island) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/gautamalok0001/DSA_2026/tree/master/0695-max-area-of-island) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/gautamalok0001/DSA_2026/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/gautamalok0001/DSA_2026/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
