@@ -21,26 +21,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/gautamalok0001/DSA_2026/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/gautamalok0001/DSA_2026/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/gautamalok0001/DSA_2026/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/gautamalok0001/DSA_2026/tree/master/1020-number-of-enclaves) |
 ## Array
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/gautamalok0001/DSA_2026/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/gautamalok0001/DSA_2026/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/gautamalok0001/DSA_2026/tree/master/1020-number-of-enclaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/gautamalok0001/DSA_2026/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/gautamalok0001/DSA_2026/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/gautamalok0001/DSA_2026/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/gautamalok0001/DSA_2026/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/gautamalok0001/DSA_2026/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/gautamalok0001/DSA_2026/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/gautamalok0001/DSA_2026/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/gautamalok0001/DSA_2026/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/gautamalok0001/DSA_2026/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
