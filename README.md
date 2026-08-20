@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/gautamalok0001/DSA_2026/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/gautamalok0001/DSA_2026/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/gautamalok0001/DSA_2026/tree/master/0695-max-area-of-island) |
+| [0802-find-eventual-safe-states](https://github.com/gautamalok0001/DSA_2026/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/gautamalok0001/DSA_2026/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/gautamalok0001/DSA_2026/tree/master/1020-number-of-enclaves) |
 ## Array
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/gautamalok0001/DSA_2026/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/gautamalok0001/DSA_2026/tree/master/0695-max-area-of-island) |
+| [0802-find-eventual-safe-states](https://github.com/gautamalok0001/DSA_2026/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/gautamalok0001/DSA_2026/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/gautamalok0001/DSA_2026/tree/master/1020-number-of-enclaves) |
 ## Union-Find
@@ -49,5 +51,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/gautamalok0001/DSA_2026/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/gautamalok0001/DSA_2026/tree/master/0841-keys-and-rooms) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/gautamalok0001/DSA_2026/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/gautamalok0001/DSA_2026/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/gautamalok0001/DSA_2026/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
